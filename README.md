@@ -19,10 +19,15 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0001-two-sum) |
 | [0605-can-place-flowers](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0605-can-place-flowers) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
