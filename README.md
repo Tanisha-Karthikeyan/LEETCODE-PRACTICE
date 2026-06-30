@@ -24,6 +24,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0011-container-with-most-water) |
+| [0238-product-of-array-except-self](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Greedy
@@ -35,4 +36,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0001-two-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
