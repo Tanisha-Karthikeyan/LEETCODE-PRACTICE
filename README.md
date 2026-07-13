@@ -45,6 +45,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0735-asteroid-collision) |
+| [0994-rotting-oranges](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -105,6 +106,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
@@ -179,6 +181,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0199-binary-tree-right-side-view) |
 | [0399-evaluate-division](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0399-evaluate-division) |
 | [0841-keys-and-rooms](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
