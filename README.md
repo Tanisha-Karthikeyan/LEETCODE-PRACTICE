@@ -70,6 +70,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2352-equal-row-and-column-pairs) |
 ## Prefix Sum
 |  |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0933-number-of-recent-calls) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
@@ -228,8 +230,13 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2336-smallest-number-in-infinite-set) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
