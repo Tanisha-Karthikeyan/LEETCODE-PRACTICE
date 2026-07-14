@@ -56,12 +56,14 @@
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2352-equal-row-and-column-pairs) |
+| [2542-maximum-subsequence-score](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2542-maximum-subsequence-score) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0649-dota2-senate) |
+| [2542-maximum-subsequence-score](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2542-maximum-subsequence-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2542-maximum-subsequence-score](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2542-maximum-subsequence-score) |
 ## Sliding Window
 |  |
 | ------- |
@@ -231,6 +234,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2336-smallest-number-in-infinite-set) |
+| [2542-maximum-subsequence-score](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
 |  |
 | ------- |
