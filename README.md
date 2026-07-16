@@ -41,6 +41,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0011-container-with-most-water) |
+| [0162-find-peak-element](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0283-move-zeroes) |
@@ -112,6 +113,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
