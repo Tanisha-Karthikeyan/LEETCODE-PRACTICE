@@ -35,6 +35,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0062-unique-paths) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1137-n-th-tribonacci-number) |
 ## Array
@@ -96,6 +97,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0746-min-cost-climbing-stairs) |
@@ -279,4 +281,8 @@
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1137-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
