@@ -55,6 +55,7 @@
 | [0283-move-zeroes](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0283-move-zeroes) |
 | [0399-evaluate-division](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -81,6 +82,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -124,6 +126,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1268-search-suggestions-system](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1268-search-suggestions-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1679-max-number-of-k-sum-pairs) |
