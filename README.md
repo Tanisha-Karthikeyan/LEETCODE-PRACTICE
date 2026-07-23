@@ -19,6 +19,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0151-reverse-words-in-a-string) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1207-unique-number-of-occurrences](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1657-determine-if-two-strings-are-close) |
@@ -137,6 +139,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
