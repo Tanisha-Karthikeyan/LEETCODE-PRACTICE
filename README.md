@@ -58,6 +58,7 @@
 | [0088-merge-sorted-array](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0216-combination-sum-iii) |
@@ -104,6 +105,7 @@
 | [0001-two-sum](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0169-majority-element) |
 | [1207-unique-number-of-occurrences](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -137,6 +139,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -165,6 +168,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0169-majority-element) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1657-determine-if-two-strings-are-close) |
 ## Matrix
 |  |
@@ -292,6 +296,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
