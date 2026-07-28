@@ -47,6 +47,7 @@
 | [0002-add-two-numbers](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1137-n-th-tribonacci-number) |
 ## Array
@@ -72,6 +73,7 @@
 | [0238-product-of-array-except-self](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0283-move-zeroes) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -117,6 +119,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
 | [1207-unique-number-of-occurrences](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -217,6 +220,7 @@
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2336-smallest-number-in-infinite-set) |
@@ -366,4 +370,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
