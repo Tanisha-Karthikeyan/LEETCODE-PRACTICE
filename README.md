@@ -29,6 +29,7 @@
 | [0012-integer-to-roman](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0058-length-of-last-word](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0345-reverse-vowels-of-a-string) |
