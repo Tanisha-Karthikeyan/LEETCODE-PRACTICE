@@ -90,6 +90,7 @@
 | [0169-majority-element](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0238-product-of-array-except-self) |
@@ -155,6 +156,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
@@ -199,6 +201,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -208,6 +211,7 @@
 | ------- |
 | [0162-find-peak-element](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
