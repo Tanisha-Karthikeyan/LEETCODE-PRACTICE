@@ -79,6 +79,7 @@
 | [0036-valid-sudoku](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -234,12 +235,14 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0054-spiral-matrix) |
 | [0994-rotting-oranges](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2352-equal-row-and-column-pairs) |
