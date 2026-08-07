@@ -44,6 +44,7 @@
 | [0125-valid-palindrome](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0399-evaluate-division) |
@@ -159,6 +160,7 @@
 | [0076-minimum-window-substring](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0383-ransom-note) |
 | [1207-unique-number-of-occurrences](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -235,6 +237,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0383-ransom-note) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1657-determine-if-two-strings-are-close) |
 ## Matrix
 |  |
