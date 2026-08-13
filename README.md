@@ -36,6 +36,7 @@
 | [0013-roman-to-integer](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0049-group-anagrams) |
@@ -281,6 +282,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0735-asteroid-collision) |
@@ -465,4 +467,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0056-merge-intervals) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
