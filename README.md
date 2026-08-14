@@ -286,6 +286,7 @@
 | [0020-valid-parentheses](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0739-daily-temperatures) |
@@ -301,6 +302,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0933-number-of-recent-calls) |
