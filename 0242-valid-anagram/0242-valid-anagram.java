@@ -1,22 +1,15 @@
-class Solution {
-    public boolean isAnagram(String s, String t) {
-        if (s.length() != t.length()) {
+class Solution 
+{
+    public boolean isAnagram(String s, String t) 
+    {
+        if(s.length()!=t.length())
+        {
             return false;
         }
-
-        int[] count = new int[26];
-
-        for (int i = 0; i < s.length(); i++) {
-            count[s.charAt(i) - 'a']++;
-            count[t.charAt(i) - 'a']--;
-        }
-
-        for (int num : count) {
-            if (num != 0) {
-                return false;
-            }
-        }
-
-        return true;
+        char word1[] = s.toCharArray();
+        char word2[] = t.toCharArray();
+        Arrays.sort(word1);
+        Arrays.sort(word2);
+        return Arrays.equals(word1,word2);
     }
 }
