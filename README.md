@@ -117,6 +117,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0274-h-index) |
@@ -180,6 +181,7 @@
 | [0169-majority-element](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
@@ -228,6 +230,7 @@
 | [0088-merge-sorted-array](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0435-non-overlapping-intervals) |
