@@ -78,6 +78,7 @@
 | [0189-rotate-array](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0224-basic-calculator) |
+| [0268-missing-number](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1137-n-th-tribonacci-number) |
@@ -120,6 +121,7 @@
 | [0217-contains-duplicate](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0289-game-of-life) |
@@ -183,6 +185,7 @@
 | [0205-isomorphic-strings](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0383-ransom-note) |
@@ -232,6 +235,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -257,6 +261,7 @@
 | [0162-find-peak-element](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
@@ -451,6 +456,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Trie
