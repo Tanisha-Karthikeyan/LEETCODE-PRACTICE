@@ -143,6 +143,7 @@
 | [1268-search-suggestions-system](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1268-search-suggestions-system) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1732-find-the-highest-altitude) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -240,6 +241,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1268-search-suggestions-system](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1268-search-suggestions-system) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2300-successful-pairs-of-spells-and-potions) |
