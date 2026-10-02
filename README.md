@@ -2,8 +2,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -29,8 +29,8 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2462-total-cost-to-hire-k-workers) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0012-integer-to-roman) |
@@ -67,9 +67,10 @@
 | [1768-merge-strings-alternately](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2390-removing-stars-from-a-string) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0048-rotate-image) |
@@ -83,8 +84,8 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1137-n-th-tribonacci-number) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0014-longest-common-prefix) |
@@ -153,8 +154,8 @@
 | [2462-total-cost-to-hire-k-workers](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2542-maximum-subsequence-score) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0055-jump-game) |
@@ -168,8 +169,8 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2542-maximum-subsequence-score](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2542-maximum-subsequence-score) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0012-integer-to-roman) |
@@ -197,16 +198,16 @@
 | [2336-smallest-number-in-infinite-set](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2352-equal-row-and-column-pairs) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1732-find-the-highest-altitude) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0055-jump-game) |
@@ -226,8 +227,8 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0056-merge-intervals) |
@@ -247,8 +248,8 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2542-maximum-subsequence-score) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0076-minimum-window-substring) |
@@ -258,8 +259,8 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0162-find-peak-element](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0209-minimum-size-subarray-sum) |
@@ -270,14 +271,14 @@
 | [1268-search-suggestions-system](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0383-ransom-note) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1657-determine-if-two-strings-are-close) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0054-spiral-matrix) |
@@ -287,8 +288,8 @@
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0289-game-of-life) |
@@ -297,8 +298,8 @@
 | [2390-removing-stars-from-a-string](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0071-simplify-path) |
@@ -312,33 +313,33 @@
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0394-decode-string) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0155-min-stack](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0649-dota2-senate](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0901-online-stock-span](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0933-number-of-recent-calls) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0206-reverse-linked-list) |
@@ -346,8 +347,8 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -359,8 +360,8 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -373,8 +374,8 @@
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0199-binary-tree-right-side-view) |
 | [0399-evaluate-division](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0399-evaluate-division) |
@@ -385,8 +386,8 @@
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -398,103 +399,103 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0700-search-in-a-binary-search-tree) |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0399-evaluate-division](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0399-evaluate-division) |
 | [0841-keys-and-rooms](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0399-evaluate-division](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0399-evaluate-division) |
 ## Shortest Path
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0399-evaluate-division](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0399-evaluate-division) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [1268-search-suggestions-system](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1268-search-suggestions-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/2336-smallest-number-in-infinite-set) |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0374-guess-number-higher-or-lower) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0216-combination-sum-iii](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0216-combination-sum-iii) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0062-unique-paths](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0062-unique-paths) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0136-single-number](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0014-longest-common-prefix) |
 | [1268-search-suggestions-system](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/1268-search-suggestions-system) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0901-online-stock-span) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0274-h-index](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0274-h-index) |
 ## Randomized
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Floyd's Cycle Finding Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0202-happy-number) |
 ## Quicksort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0056-merge-intervals](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0056-merge-intervals) |
 ## Bracket Sequences
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Tanisha-Karthikeyan/LEETCODE-PRACTICE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
